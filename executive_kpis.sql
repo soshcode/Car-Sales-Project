@@ -1,3 +1,8 @@
+/*This script extracts business metrics from the 
+car_sales_data table. The results from these queries inputed into SQLite (DB Browser for SQLite)
+validate the executive KPIs and leaderboards built in the final Tableau dashboard.
+*/
+
 --Checking dataset works
 SELECT * 
 FROM car_sales_data 
